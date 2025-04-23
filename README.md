@@ -4,25 +4,25 @@ Willkommen auf unserer GitHub-Seite! Hier findest du eine Übersicht unserer ver
 
 ## Unsere Webseiten
 
-1. **[trenvay.com](https://trenvay.com)**  
+1. **[Marktplatz](https://trenvay.com)**  
    Der Marktplatz für jedermann
 
-2. **[boxspringbetten.org](https://boxspringbetten.org)**  
+2. **[boxspringbetten](https://boxspringbetten.org)**  
    Dein Ratgeber und Marktplatz rund um erholsamen Schlaf mit hochwertigen Boxspringbetten.
 
-3. **[folien8.de](https://folien8.de)**  
-   Maßgeschneiderte Fensterfolien für Sichtschutz, Sonnenschutz und Design.
+3. **[Klebefolien](https://folien8.de)**  
+   Maßgeschneiderte Klebefolien für Diy Projekte.
 
-4. **[kuechenrueckwandfolie.de](https://kuechenrueckwandfolie.de)**  
+4. **[kuechenrueckwand](https://kuechenrueckwandfolie.de)**  
    Hochwertige Küchenrückwände aus Glas, Alu oder Acryl – modern und leicht montierbar.
 
-5. **[rueckwand21.de](https://rueckwand21.de)**  
+5. **[kuechenrueckwand](https://rueckwand21.de)**  
    Innovative Küchenrückwände für moderne Küchenräume – von Acryl bis Glas.
 
-6. **[montage21.de](https://montage21.de)**  
-   Dein Partner für einfache Montage- und Installationslösungen, speziell für Heimwerker.
+6. **[Terrassenüberdachung](https://montage21.de)**  
+   Dein Partner für einfache Montage- und Installationslösungen, von Terrassebüberdachungen.
 
-7. **[aludach21.de](https://aludach21.de)**  
+7. **[Terrassenüberdachung](https://aludach21.de)**  
    Das Komplettsystem für Terrassenüberdachungen und Alu-Konstruktionen in Premiumqualität.
 
 ---
@@ -47,8 +47,5 @@ Unser Ziel ist es, **innovative, benutzerzentrierte Produkte** anzubieten, die u
 
 Wenn du Interesse hast, mit uns an einem dieser Projekte zu arbeiten oder einen Beitrag zu leisten, melde dich gerne bei uns! Wir freuen uns über Entwickler, Designer und alle, die sich mit unseren Zielen identifizieren.
 
----
 
-**Folge uns:**  
-- [Website](https://trenvay.com)  
-- [GitHub Profil](https://github.com/dein-benutzername)  
+
