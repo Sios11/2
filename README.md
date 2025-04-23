@@ -5,7 +5,7 @@ Willkommen auf unserer GitHub-Seite! Hier findest du eine Übersicht unserer ver
 ## Unsere Webseiten
 
 1. **[trenvay.com](https://trenvay.com)**  
-   Hochwertige Reinigungsprodukte für Haushalt und Gewerbe – einfach, effektiv und nachhaltig.
+   Der Marktplatz für jedermann
 
 2. **[boxspringbetten.org](https://boxspringbetten.org)**  
    Dein Ratgeber und Marktplatz rund um erholsamen Schlaf mit hochwertigen Boxspringbetten.
